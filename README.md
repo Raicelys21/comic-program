@@ -1,1 +1,5 @@
 # comic-program
+
+#nmp install
+
+#
