@@ -1,14 +1,16 @@
 # comic-program
 
-La API que se consume en esta aplicacion proviene de Comic Vine API y muestra su informacion.
+The API consumed in this application comes from the Comic Vine API and displays its information.
 
-Para ejecutar la aplicación es necesario crear los archivos .env adecuados que contengan en el caso:
+To run the application it is necessary to create the appropriate .env files containing in the case:
 
-* comicprogram: la API_KEY que se puede obtener registrandose en https://comicvine.gamespot.com/api/.
+* comicprogram: the API_KEY that can be obtained by registering at https://comicvine.gamespot.com/api/.
 
-* comicserver: la API_KEY y PORT, el puerto utilizado (debe ser diferente al del programa).
+* comicserver: the API_KEY and PORT, the port used (must be different from that of the program).
 
-Para ejecutar los programas en linea de comando lo primero es instalar npm i o npm install.
+To run the programs on command line the first thing to do is to install npm i or npm install.
 
 - comicserver -> node server.js
 - comicprogram -> npm start
+
+Translated with www.DeepL.com/Translator (free version)
