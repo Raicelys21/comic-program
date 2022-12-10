@@ -1,0 +1,19 @@
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(2, 49%);
+    column-gap: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.name{
+    text-align: center;
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.all{
+    margin-top: 1rem;
+}

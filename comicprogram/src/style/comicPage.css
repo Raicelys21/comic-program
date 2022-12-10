@@ -1,0 +1,110 @@
+
+.comicPage{
+    margin: 2rem;
+}
+
+.title1{
+    padding-left: 2rem;
+}
+
+button{
+    justify-items: center;
+    color:black;
+    background-color: none;
+    border: none;
+    background: none;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 0;
+}
+
+.list, .grid{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+h6{
+    margin: 0 14px;
+    padding: 0;
+}
+
+.navbar{
+    display: grid;
+    grid-template-columns: 85% 10% 10%;
+    column-gap: 10px;
+    justify-content: space-between;
+}
+
+.button{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 10px;
+    justify-content: flex-end;
+}
+
+img{
+    margin: 5px 0;
+    padding: 5px 0;
+}
+
+p{
+    font-size: 10px;
+    font-weight: 600;
+    color: rgb(65, 65, 65);
+    margin: 0;
+    padding: 0px;
+}
+
+h4{
+    margin: 0;
+    padding: 0;
+}
+
+.column{
+    display: grid;
+    grid-template-columns: repeat(6, 16%);
+    column-gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.column2{
+    display: grid;
+    grid-template-columns: repeat(2, 49%);
+    column-gap: 10px;
+}
+
+.row{
+    padding: 5px;
+    margin: 10px;
+}
+
+.name{
+    text-align: center;
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 15px;
+}
+
+
+.link{
+    margin: 0;
+    padding: 5px 20px;
+    font-size: 10px;
+    border-style: 1px solid;
+    border-color: black;
+    border-radius: 30px;
+    background-color: rgb(54, 54, 54);
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    justify-content: center;
+    align-items: center;
+}
+
+.link:hover{
+    cursor: pointer;
+    color: black;
+    background-color: rgb(248, 85, 79);
+}
