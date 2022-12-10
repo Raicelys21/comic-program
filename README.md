@@ -13,4 +13,7 @@ To run the programs on command line the first thing to do is to install npm i or
 - comicserver -> node server.js
 - comicprogram -> npm start
 
-Translated with www.DeepL.com/Translator (free version)
+![image](https://user-images.githubusercontent.com/72804397/206831286-773290fe-8f46-4647-9da1-955f89ea05f6.png)
+
+![image](https://user-images.githubusercontent.com/72804397/206831293-ba476c3a-d435-4a3c-8c3b-0c95ec0f58b4.png)
+
